@@ -1,0 +1,110 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "gender": "male",
+    "hobbies": ["reading", "coding", "hiking"],
+    "favorite_food": "pizza",
+    "pets": {
+      "dog": "Golden Retriever",
+      "cat": "Siamese"
+    }
+  },
+  {
+    "name": "Jane Doe",
+    "age": 25,
+    "city": "Los Angeles",
+    "gender": "female",
+    "hobbies": ["dancing", "singing", "painting"],
+    "favorite_food": "chocolate",
+    "pets": {
+      "dog": "Poodle",
+      "cat": "Persian"
+    }
+  },
+  {
+    "name": "Peter Smith",
+    "age": 40,
+    "city": "Chicago",
+    "gender": "male",
+    "hobbies": ["sports", "traveling", "video games"],
+    "favorite_food": "steak",
+    "pets": {
+      "dog": "German Shepherd",
+      "cat": "Tabby"
+    }
+  },
+  {
+    "name": "Mary Jones",
+    "age": 35,
+    "city": "Dallas",
+    "gender": "female",
+    "hobbies": ["shopping", "reading", "spending time with family"],
+    "favorite_food": "spaghetti",
+    "pets": {
+      "dog": "Labrador Retriever",
+      "cat": "Maine Coon"
+    }
+  },
+  {
+    "name": "David Brown",
+    "age": 50,
+    "city": "Miami",
+    "gender": "male",
+    "hobbies": ["golf", "fishing", "watching sports"],
+    "favorite_food": "burgers",
+    "pets": {
+      "dog": "Beagle",
+      "cat": "Sphynx"
+    }
+  },
+  {
+    "name": "Susan Green",
+    "age": 20,
+    "city": "Seattle",
+    "gender": "female",
+    "hobbies": ["music", "dancing", "hanging out with friends"],
+    "favorite_food": "ice cream",
+    "pets": {
+      "dog": "Shih Tzu",
+      "cat": "Abyssinian"
+    }
+  },
+  {
+    "name": "Michael White",
+    "age": 18,
+    "city": "Denver",
+    "gender": "male",
+    "hobbies": ["video games", "sports", "programming"],
+    "favorite_food": "pizza",
+    "pets": {
+      "dog": "Yorkshire Terrier",
+      "cat": "Calico"
+    }
+  },
+  {
+    "name": "Sarah Black",
+    "age": 38,
+    "city": "Phoenix",
+    "gender": "female",
+    "hobbies": ["traveling", "reading", "spending time with family"],
+    "favorite_food": "tacos",
+    "pets": {
+      "dog": "Pug",
+      "cat": "Bengal"
+    }
+  },
+  {
+    "name": "James Blue",
+    "age": 42,
+    "city": "San Francisco",
+    "gender": "male",
+    "hobbies": ["hiking", "camping", "photography"],
+    "favorite_food": "steak",
+    "pets": {
+      "dog": "Doberman Pinscher",
+      "cat": "Siamese"
+    }
+  }
+]
