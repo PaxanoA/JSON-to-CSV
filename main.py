@@ -2,8 +2,8 @@ import json
 import pandas as pd
 
 keys_to_search = str(input("Enter the keys you want to extract separated by commas: ").split(','))
-locationJSON = r'C:\Users\andre\OneDrive\Escritorio\ANDRES PACHANO\Projects\JSON-to-CSV\jsonDemoFile.json' #add the path of the JSON file between the single quotes
-locationCSV = r'C:\Users\andre\OneDrive\Escritorio\ANDRES PACHANO\Projects\JSON-to-CSV\jsonOutputFile.csv' #add the path for the CSV file between the single quotes
+locationJSON = r'' #add the path of the JSON file between the single quotes
+locationCSV = r'' #add the path for the CSV file between the single quotes
 output = r''
 
 keys = []
